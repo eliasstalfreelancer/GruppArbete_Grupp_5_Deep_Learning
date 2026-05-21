@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 
 # Virtual env
+.venv/
 tf_env/
 venv/
 
