@@ -4,7 +4,7 @@ python - 3.10.6
 - pip install requirements.txt
 - go to main.py
 - press run 
-- wait until it says "Done with importing data" in the python terminal
+
 
 # Upgift 
 5. Data augmentation
